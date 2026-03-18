@@ -1,0 +1,28 @@
+## .NET
+bin/
+obj/
+publish/
+dist/
+
+## Build output
+*.user
+*.suo
+*.cache
+*.pdb
+
+## IDE
+.vs/
+.idea/
+*.DotSettings.user
+
+## OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+## GLM release
+GLM-portable.zip
+
+## Python
+__pycache__/
+*.pyc
