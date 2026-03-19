@@ -65,10 +65,6 @@ Each transfer goes through a structured pipeline:
 4. **Updating References** — Updates launcher configs, registry entries, and shortcuts
 5. **Cleanup** — Removes original files and empty library folders
 
-## Screenshots
-
-*Coming soon*
-
 ## Installation
 
 ### Portable (Recommended)
